@@ -1,0 +1,53 @@
+# SGE — Generative Engine Optimization Map
+
+> A הנדסה חשמלית וייעוץ אסטרטגי business.
+
+---
+
+## Pages
+
+### Home
+https://sge-6cefc94e.zappy5.app
+
+### Services
+https://sge-6cefc94e.zappy5.app/services
+
+### About
+https://sge-6cefc94e.zappy5.app/about
+
+### Contact
+https://sge-6cefc94e.zappy5.app/contact
+
+## Legal & Policy
+
+### Privacy Policy
+https://sge-6cefc94e.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://sge-6cefc94e.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://sge-6cefc94e.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About SGE
+SGE is a business in the הנדסה חשמלית וייעוץ אסטרטגי industry.
+
+## Target Audience
+מנהלי כספים (CFO) ומנהלי תפעול (COO)
+
+## Industry
+הנדסה חשמלית וייעוץ אסטרטגי
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://sge-6cefc94e.zappy5.app/sitemap.xml
+- **Robots.txt**: https://sge-6cefc94e.zappy5.app/robots.txt
